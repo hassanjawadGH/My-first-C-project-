@@ -1,4 +1,4 @@
-# My-first-C-project-
+# My-first-Cpp-project-
 The basic version of Grocery Store Management system.
 
 
